@@ -1,9 +1,9 @@
 {
-  "name": "deezer-api-ts",
-  "version": "1.2.1",
+  "name": "visdi-deezer-api-ts",
+  "version": "1.0.0",
   "description": "🥁 Node.js library for Deezer Public API",
   "main": "dist/index.js",
-  "repository": "https://github.com/tanukijs/deezer-api-ts",
+  "repository": "https://github.com/AlexandreVassard/deezer-api-ts",
   "author": {
     "name": "tanukijs",
     "email": "tanuki.contact@gmail.com",
